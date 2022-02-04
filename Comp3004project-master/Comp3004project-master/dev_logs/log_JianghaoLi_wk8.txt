@@ -1,0 +1,2 @@
+In this week, I pay attention on writing D3 document and preparing oral exam.
+After oral exam, I plan to work on how to calculate daily calories for clients.

@@ -1,0 +1,5 @@
+Write some functions on Personal File:
+1.Set Age
+2.Set Gender
+3.Set Weight and Height
+And connecting them to Firebase real time databse.

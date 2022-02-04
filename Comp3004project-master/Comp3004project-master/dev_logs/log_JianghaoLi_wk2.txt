@@ -1,0 +1,3 @@
+wrote register and login page and function to Jianghao_dev
+committed register and login
+still working on personal file page

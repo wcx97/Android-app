@@ -1,0 +1,2 @@
+Commited personal file parts including change user's name and password
+Studying at Firebase database.

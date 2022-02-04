@@ -1,0 +1,3 @@
+I was working on create records function.
+And I was working on how to show those records that Users created.
+I seperate OverView of records to FOOD and WORKOUT, and using cardViews to show.

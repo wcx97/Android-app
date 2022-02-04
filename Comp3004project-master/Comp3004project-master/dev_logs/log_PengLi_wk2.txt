@@ -1,0 +1,2 @@
+add stuff to each layout(notification,graph,home)
+(such as button, textview)
